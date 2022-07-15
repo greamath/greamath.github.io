@@ -13,13 +13,14 @@
 <h2>Instructional Assistant Professor</h2>
 <h3><a href="https://math.tamu.edu/">Department of Mathematics</a> at <a href="https://tamu.edu/">Texas A&M University</a></h3>
 
-<div>
+<div style="width:600px;">
+<div style="float:left;">
 <!-- Photograph -->
 <img src="./photos/jweeks1.jpg" alt="[PHOTO]"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;width:250px;height:400px"/>
  </div>
 
-<div>
+<div style="float:right;">
 <!-- Contact info -->
 <table>
 <tr><!-- Office -->
