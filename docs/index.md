@@ -15,7 +15,7 @@
 <div>
 <!-- Photograph -->
 <img src="./photos/jweeks1.jpg" alt="[PHOTO]"
-     style="position:relative;float:left;padding-right:5px;padding-top:5px;width:300px;height:400px"/> -->
+     style="position:relative;float:left;padding-right:5px;padding-top:5px;width:300px;height:400px"/>
 <!-- Contact info -->
 <table>
 <tr><!-- Office -->
