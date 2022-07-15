@@ -11,9 +11,8 @@
 
 <!-- ==================== BEGIN YOUR CONTENT HERE ==================== -->
 
-<h1 class="pageTitle">John Weeks</h1>
- <h2>Instructional Assistant Professor</h2>
- <h3><a href="https://math.tamu.edu/">Department of Mathematics</a> at <a href="https://tamu.edu/">Texas A&M University</a></h3>
+<h2>Instructional Assistant Professor</h2>
+<h3><a href="https://math.tamu.edu/">Department of Mathematics</a> at <a href="https://tamu.edu/">Texas A&M University</a></h3>
 
 <div>
 <!-- Photograph -->
