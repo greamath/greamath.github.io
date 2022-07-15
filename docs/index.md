@@ -2,7 +2,7 @@
 
 <!-- ==================== DEFINE DOCUMENT VARS HERE ==================== -->
 <!-- ========== In this section change YOUR NAME to your name ========== -->
-<!--#set
+#set
 var="title"
  value="John M. Weeks"
 var="description"
@@ -11,7 +11,6 @@ var="keywords"
  value="Texas A&amp;M, Mathematics, John M., Weeks"
 var="author"
  value="John M. Weeks, Department of Mathematics, Texas A&amp;M University"
--->
 
 <body>
 <!--#include virtual="/includes/1colUser.inc.html" -->
