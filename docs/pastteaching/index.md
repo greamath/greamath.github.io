@@ -41,20 +41,10 @@ var="author"
   under your public_html directory for Fall and Spring, 2014,
   respectively.  Create index.html files in each directory.
   -->
-<li><a href="/~jweeks03/142/20s142504syllupdated.pdf">Syllabus (UPDATED 3/23)</a></li>
-<li><a href="https://forms.gle/1zcRNfrc37XbyANaA">Feedback Hub</a></li>
-<li><a href="/courses/math142/">142 Course Webpage</a></li>
 <li><a href="https://webassign.net/tamu/login.html">Webassign Access</a></li>
-<li><a href="/courses/math142/142suggested_homework.pdf">Suggested Homework</a></li>
-<li><a href="http://mlc.tamu.edu/Help-Services/MLC-Help-Sessions#M142">Help Session Info (UPDATED)</a></li>
-<li><a href="http://mlc.tamu.edu/Help-Services/MLC-Week-in-Review">Week-in-Review Info (UPDATED)</a></li>
-<li><a href="https://piazza.com/tamu/spring2020/math142">Piazza for Class Questions</a></li>
-<li><a href="https://youtu.be/T1uifWaYI3M">Piazza Tutorial</a></li>
+<li><a href="https://mlc.tamu.edu/Help-Services/MLC-Help-Sessions#M142">Help Session Info (UPDATED)</a></li>
+<li><a href="https://mlc.tamu.edu/Help-Services/MLC-Week-in-Review">Week-in-Review Info (UPDATED)</a></li>
 <li><a href="https://www.desmos.com/calculator">Desmos Graphing Calculator</a></li>
-<li><a href="exam1key.pdf">Exam 1 Key</a></li>
-<li><a href="https://docs.google.com/document/d/1VmEPMhzspYDs90el2eW3cGFY0C-FlIaKJOYJLDzrlQg/edit?usp-sharing">(NEW) Instructions for Zoom, Webassign, and eCampus</a></li>
-<li><a href="142assignments5152key.png"> Assignment 5.1 & 5.2 Key</a></li>
-</ul>
 
 <p>This class runs on a mix of lecture and flipped-class teaching styles. You can find the videos giving
 the necessary examples this class will use below.</p>
