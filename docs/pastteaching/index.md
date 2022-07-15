@@ -1,21 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-
-<!-- ==================== DEFINE DOCUMENT VARS HERE ==================== -->
-<!-- ========== In this section change YOUR NAME to your name ========== -->
-<!--#set
-var="title"
- value="MATH-142-504"
-var="description"
- value="MATH-142-504 Spring 2020 Section Webpage (Texas A&amp;M University)"
-var="keywords"
- value="Texas A&amp;M, Mathematics, John M., Weeks"
-var="author"
- value="John M. Weeks, Department of Mathematics, Texas A&amp;M University"
--->
-
 <head>
 <!--#include virtual="/head.html"-->
 <style type="text/css">
@@ -30,7 +12,7 @@ var="author"
 
 <!-- ==================== BEGIN YOUR CONTENT HERE ==================== -->
 
-<h1 class="pageTitle">MATH-142-504 - Spring 2020</h1>
+<h1 class="pageTitle">Past Teaching: MATH-142-504 - Spring 2020</h1>
 
 
 <h3>Important Links</h3>
