@@ -11,6 +11,9 @@
 <!-- ==================== BEGIN YOUR CONTENT HERE ==================== -->
 
 <h1 class="pageTitle">John Weeks</h1>
+ <h2>Instructional Assistant Professor</h2>
+ <h2><a href="https://math.tamu.edu/">Department of Mathematics</a>
+  <h2><a href="https://tamu.edu/">Texas A&M University</a>
 
 <div>
 <!-- Photograph -->
@@ -34,7 +37,7 @@ TBD
 </tr>
 <tr><!-- Link to your CV -->
 <th style="text-align: right">CV:</th>
-<td><a href="johnweeks_cv.pdf">CV.pdf</a></td>
+<td><a href="johnweeks_cv.pdf">johnweeks_cv.pdf</a></td>
 <!-- <td><a href="misc/cv.pdf">John Weeks</a></td> -->
 </tr>
 </table>
