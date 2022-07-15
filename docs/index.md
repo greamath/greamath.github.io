@@ -1,8 +1,10 @@
+<!DOCTYPE html>
 <!-- <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"> -->
 
 <!-- ==================== DEFINE DOCUMENT VARS HERE ==================== -->
 <!-- ========== In this section change YOUR NAME to your name ========== -->
-<head>
+<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Minimal theme | Minimal is a theme for GitHub Pages.</title>
 <meta name="generator" content="Jekyll v3.9.0">
 <meta property="og:title" content="Minimal theme">
