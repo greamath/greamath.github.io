@@ -20,11 +20,11 @@
 
 <!-- ==================== BEGIN YOUR CONTENT HERE ==================== -->
 
-<h1 class="pageTitle">John M. Weeks</h1>
+<h1 class="pageTitle">John Weeks</h1>
 
 <div>
 <!-- Photograph -->
-<!--<img src="photos/jweeks.jpg" alt="[PHOTO]"
+<img src="photos/jweeks1.jpg" alt="[PHOTO]"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;width:300px;height:400px"/> -->
 <!-- Contact info -->
 <table>
@@ -44,7 +44,7 @@ TBD
 </tr>
 <tr><!-- Link to your CV -->
 <th style="text-align: right">CV:</th>
-<!-- <td><a href="cv.pdf">CV.pdf</a></td> -->
+<td><a href="johnweeks_cv.pdf">CV.pdf</a></td>
 <!-- <td><a href="misc/cv.pdf">John Weeks</a></td> -->
 </tr>
 </table>
