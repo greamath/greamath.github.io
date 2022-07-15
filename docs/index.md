@@ -13,13 +13,13 @@
 <h2>Instructional Assistant Professor</h2>
 <h3><a href="https://math.tamu.edu/">Department of Mathematics</a> at <a href="https://tamu.edu/">Texas A&M University</a></h3>
 
-<div class="flex-container">
-<div class="flex-child">
+<div>
 <!-- Photograph -->
 <img src="./photos/jweeks1.jpg" alt="[PHOTO]"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;width:250px;height:400px"/>
  </div>
-<div class="flex-child">
+
+<div>
 <!-- Contact info -->
 <table>
 <tr><!-- Office -->
@@ -43,18 +43,6 @@ TBD
 </tr>
 </table>
 </div>
-</div>
- .flex-container {
-    display: flex;
-}
-
-.flex-child {
-    flex: 1;
-}  
-
-.flex-child:first-child {
-    margin-right: 20px;
-} 
 
 <!-- Break -->
 <p><br style="clear: both;"/></p>
