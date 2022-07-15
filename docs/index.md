@@ -12,8 +12,8 @@
 
 <h1 class="pageTitle">John Weeks</h1>
  <h2>Instructional Assistant Professor</h2>
- <h2><a href="https://math.tamu.edu/">Department of Mathematics</a>
-  <h2><a href="https://tamu.edu/">Texas A&M University</a>
+ <h3><a href="https://math.tamu.edu/">Department of Mathematics</a>
+  <h3><a href="https://tamu.edu/">Texas A&M University</a>
 
 <div>
 <!-- Photograph -->
