@@ -58,11 +58,7 @@ TBD
   respectively.  Create index.html files in each directory.
   -->
 <!-- <li><a href="20f142/index.html">MATH-142-504 Fall 2020</a></li> -->
-</ul>
-
-<h3>Past Teaching</h3>
-<ul style="margin-top: 2px">
-<!-- <li><a href="20s142/index.html">MATH-142-504 Spring 2020</a></li> -->
+ <li><a href="pastteaching/index.md">Past Teaching</a></li>
 </ul>
 
 <h3>Exam Solutions</h3>
