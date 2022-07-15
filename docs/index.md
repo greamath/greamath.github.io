@@ -3,6 +3,7 @@
 <!-- ==================== DEFINE DOCUMENT VARS HERE ==================== -->
 <!-- ========== In this section change YOUR NAME to your name ========== -->
 <html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>John Weeks | Texas A&M University</title>
  </head>
 
 <body>
