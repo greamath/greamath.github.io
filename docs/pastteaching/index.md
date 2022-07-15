@@ -557,5 +557,3 @@ The videos can no longer be found at this link. Here is a sample video:
 -->
 <!-- ===================== END YOUR CONTENT HERE ===================== -->
 <!--#include virtual="/includes/footerSubpage.inc.html" -->
-</body>
-</html>
