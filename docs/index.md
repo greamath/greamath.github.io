@@ -2,15 +2,17 @@
 
 <!-- ==================== DEFINE DOCUMENT VARS HERE ==================== -->
 <!-- ========== In this section change YOUR NAME to your name ========== -->
-#set
-var="title"
- value="John M. Weeks"
-var="description"
- value="John M. Weeks's Homepage at Texas A&amp;M University"
-var="keywords"
- value="Texas A&amp;M, Mathematics, John M., Weeks"
-var="author"
- value="John M. Weeks, Department of Mathematics, Texas A&amp;M University"
+<head>
+<title>Minimal theme | Minimal is a theme for GitHub Pages.</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="Minimal theme">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Minimal is a theme for GitHub Pages.">
+<meta property="og:description" content="Minimal is a theme for GitHub Pages.">
+<link rel="canonical" href="https://pages-themes.github.io/minimal/">
+<meta property="og:url" content="https://pages-themes.github.io/minimal/">
+<meta property="og:site_name" content="Minimal theme">
+ </head>
 
 <body>
 <!--#include virtual="/includes/1colUser.inc.html" -->
