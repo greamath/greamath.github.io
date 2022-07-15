@@ -16,15 +16,6 @@ var="author"
  value="John M. Weeks, Department of Mathematics, Texas A&amp;M University"
 -->
 
-<head>
-<!--#include virtual="/head.html"-->
-<style type="text/css">
-.contactsearch {
- visibility:hidden;
-}
-</style>
-</head>
-
 <body>
 <!--#include virtual="/includes/1colUser.inc.html" -->
 
