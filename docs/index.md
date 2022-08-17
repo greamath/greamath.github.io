@@ -33,7 +33,7 @@
 <tr><!-- Office Hours -->
 <th style="text-align: right;vertical-align:top">Office Hour:</th>
 <td style="vertical-align: top">
-T3-5pm, R3-4pm
+T 3-5pm, R 3-4pm
 </td>
 </tr>
 <tr><!-- Link to your CV -->
